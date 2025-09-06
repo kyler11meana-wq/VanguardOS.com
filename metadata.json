@@ -1,0 +1,5 @@
+{
+  "name": "VanguardOS",
+  "description": "A web-based virtual mobile operating system simulation with a built-in AI assistant powered by Gemini, a gallery, browser, and notepad, all wrapped in a sleek, modern UI/UX.",
+  "requestFramePermissions": []
+}
